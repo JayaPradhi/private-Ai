@@ -2,7 +2,7 @@
 1.Development of RAG Pipeline: This is the core system i have  built. It's designed to allow users to interact with PDF files in a conversational manner, even without an internet connection.
 
 2.Integration of Retrieval Component with Mistral Llama Model: 
-I combined two different technologies seamlessly. The Mistral Llama model likely handles the generation of responses, while the retrieval component helps find relevant information within the PDF files.
+I combined two different technologies . The Mistral Llama model likely handles the generation of responses, while the retrieval component helps find relevant information within the PDF files.
 
 
 ![Untitled Diagram](https://github.com/JayaPradhi/private-Ai/assets/127920413/d7193071-4a44-4258-a5c8-1a58f994475b)
@@ -17,6 +17,6 @@ I combined two different technologies seamlessly. The Mistral Llama model likely
 
 6.Vector Database Generation: Using Chroma's 'from_documents' method, a new vector database is created. This database incorporates the embeddings generated in the previous step, along with the updated text chunks. This database serves as a repository of information that the model can search through.
 
-7.Contextual Answer Generation: When a user asks a question, the model retrieves relevant context from the vector database. Based on both the context and the question, it generates a response using the Mistral Llama model. This ensures that the response is not only accurate but also contextually appropriate.
+7.Contextual Answer Generation:  User asks a question, the model retrieves relevant context from the vector database. Based on both the context and the question, it generates a response using the Mistral Llama model. This ensures that the response is not only accurate but also contextually appropriate.
 
 8.Output: Finally, the parsed output, which is the generated response, is returned to the user. This could be displayed in various ways depending on the interface you've designed for your system.
