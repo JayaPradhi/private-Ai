@@ -20,3 +20,8 @@ I combined two different technologies . The Mistral Llama model likely handles t
 7.Contextual Answer Generation:  User asks a question, the model retrieves relevant context from the vector database. Based on both the context and the question, it generates a response using the Mistral Llama model. This ensures that the response is not only accurate but also contextually appropriate.
 
 8.Output: Finally, the parsed output, which is the generated response, is returned to the user. This could be displayed in various ways depending on the interface you've designed for your system.
+
+
+outputs:
+![image](https://github.com/JayaPradhi/private-Ai/assets/127920413/9c6247d3-3a89-4135-8a3d-f4ef55bb37e5)
+
