@@ -25,3 +25,6 @@ I combined two different technologies . The Mistral Llama model likely handles t
 outputs:
 ![image](https://github.com/JayaPradhi/private-Ai/assets/127920413/9c6247d3-3a89-4135-8a3d-f4ef55bb37e5)
 
+![image](https://github.com/JayaPradhi/private-Ai/assets/127920413/10b4d4fd-f1cf-4de7-860a-5599ac2dfe76)
+
+
